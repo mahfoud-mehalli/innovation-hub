@@ -1,10 +1,11 @@
+import Header from "./sections/Header/Header"
 
 function App() {
   return (
     <div className="App">
-      hello
+      <Header />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

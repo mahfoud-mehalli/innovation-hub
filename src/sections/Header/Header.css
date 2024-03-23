@@ -12,8 +12,10 @@ header {
 .header-content {
     max-width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+
+
 }
 
 .header-content nav {
