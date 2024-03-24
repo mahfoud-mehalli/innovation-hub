@@ -46,4 +46,4 @@ npm start
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact us at [your-email@example.com].
+If you have any questions or need further assistance, feel free to contact us at [mahfoudmehalli12345@gmail.com].
