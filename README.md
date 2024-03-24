@@ -49,7 +49,7 @@ npm start
 
 ## Screenshot Of The Website
 
-![Screenshot Of The Website](./src/assets/screenshoot.png}
+![Screenshot Of The Website](./src/assets/screenshoot.png)
 
 ## Contact
 
