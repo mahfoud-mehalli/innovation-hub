@@ -1,0 +1,54 @@
+.event-section {
+    min-height: 720px;
+    width: 100%;
+    color: white;
+}
+
+.event-section-title {
+    margin-bottom: 56px;
+}
+
+.event-section-title h2 {
+    color: black;
+    font-size: 48px;
+    font-weight: bold;
+    flex-wrap: wrap;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.event-title {
+    font-size: 48px;
+}
+
+.event-location {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.event-time {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+
+button {
+    background-color: transparent;
+    border: none;
+}
+
+.button-slide-left {
+    position: absolute;
+    left: 2%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.button-slide-right {
+    position: absolute;
+    right: 2%;
+    top: 50%;
+    transform: translateY(-50%);
+
+}

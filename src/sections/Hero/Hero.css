@@ -3,7 +3,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    min-height: 720px;
+    height: 100vh;
     color: aliceblue;
     padding-left: 180px;
     padding-right: 180px;
