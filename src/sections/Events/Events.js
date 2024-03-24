@@ -61,9 +61,9 @@ const Events = () => {
   console.log(current)
 
   return (
-    <section className="event-section">
+    <section id="events" className="event-section">
       <div className="event-section-title">
-        <h2>Our Training Programs</h2>
+        <h2>Our Upcoming Events</h2>
       </div>
       <div style={slideStyles}>
         <h2 className="event-title">{slides[current].title}</h2>

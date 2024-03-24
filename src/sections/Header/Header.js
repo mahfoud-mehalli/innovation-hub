@@ -20,6 +20,12 @@ const Header = () => {
           <a className="header-nav-desktop-childs" href="#courses">
             Courses
           </a>
+          <a className="header-nav-desktop-childs" href="#events">
+            Events
+          </a>
+          <a className="header-nav-desktop-childs" href="#testimonial">
+            Testimonial
+          </a>
           <a className="header-nav-desktop-childs" href="#contact">
             Contact
           </a>

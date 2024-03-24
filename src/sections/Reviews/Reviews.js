@@ -1,7 +1,7 @@
 import React from "react"
 import "./Reviews.css"
-import slideLeft from "../../assets/slide-left.png"
-import slideRight from "../../assets/slide-right.png"
+// import slideLeft from "../../assets/slide-left.png"
+// import slideRight from "../../assets/slide-right.png"
 import photoProfile1 from "../../assets/photo-profile1.jpg"
 import photoProfile2 from "../../assets/photo-profile2.jpg"
 import photoProfile3 from "../../assets/photo-profile3.jpeg"
@@ -28,7 +28,7 @@ const Reviews = () => {
     cursor: "pointer",
   }
   return (
-    <div class="responsive-container-block big-container">
+    <div id="testimonial" class="responsive-container-block big-container">
       <div class="responsive-container-block bg">
         <p class="text-blk title">What Students Said About Us</p>
         <div class="responsive-container-block blocks">
