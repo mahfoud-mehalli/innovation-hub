@@ -3,6 +3,7 @@ import Courses from "./sections/Courses/Courses"
 import Events from "./sections/Events/Events"
 import Header from "./sections/Header/Header"
 import Hero from "./sections/Hero/Hero"
+import Reviews from "./sections/Reviews/Reviews"
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <About />
       <Courses />
       <Events />
+      <Reviews />
     </div>
   )
 }
