@@ -10,7 +10,11 @@ const About = () => {
         <div>
           <h2 className="about-title">WHY CHOOSE US !</h2>
           <p className="about-text">
-          Explore our agency's exceptional approach to training programs and event organization. With extensive expertise and a focus on tailored, hands-on experiences, we provide industry-relevant content and valuable networking opportunities. Join us to unlock your full potential and achieve success in your endeavors.
+          Explore our agency's exceptional approach to training programs and event 
+          organization. With extensive expertise and a focus on tailored, hands-on 
+          experiences, we provide industry-relevant content and valuable networking 
+          opportunities. Join us to unlock your full potential and achieve success 
+          in your endeavors.
           </p>
           <ul className="about-list">
             <li className="about-list-elements">
