@@ -10,31 +10,32 @@ const About = () => {
         <div>
           <h2 className="about-title">WHY CHOOSE US !</h2>
           <p className="about-text">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit
-            tempore voluptate itaque culpa assumenda voluptas, vel odit non
-            suscipit repellendus provident quidem, sit cum nesciunt molestias
-            similique dolor ea beatae?
+          Explore our agency's exceptional approach to training programs and event organization. With extensive expertise and a focus on tailored, hands-on experiences, we provide industry-relevant content and valuable networking opportunities. Join us to unlock your full potential and achieve success in your endeavors.
           </p>
           <ul className="about-list">
             <li className="about-list-elements">
               <img src={icon} alt="ring-icon" />
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste,
-              beatae debitis
+              High expertise and proven success record.
             </li>
             <li>
               <img src={icon} alt="ring-icon" />
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste,
-              beatae debitis
+              Tailored programs to meet specific needs.
             </li>
             <li>
               <img src={icon} alt="ring-icon" />
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste,
-              beatae debitis
+              Hands-on, interactive learning experiences.
             </li>
             <li>
               <img src={icon} alt="ring-icon" />
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste,
-              beatae debitis
+              Flexible scheduling options.
+            </li>
+            <li>
+              <img src={icon} alt="ring-icon" />
+              Commitment to excellence and quality standards.
+            </li>
+            <li>
+              <img src={icon} alt="ring-icon" />
+              Positive testimonials and feedback.
             </li>
           </ul>
         </div>
