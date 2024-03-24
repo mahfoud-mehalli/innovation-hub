@@ -1,0 +1,24 @@
+hr {
+    border: none;
+    /* Remove the default border */
+    height: 2px;
+    /* Set the height of the line */
+    background-color: #060606;
+    /* Set the color of the line */
+    margin: 0;
+    /* Add some margin for spacing */
+}
+
+footer{
+    padding: 8px 180px;
+    display: flex;
+    justify-content: space-between;
+}
+footer p{
+    font-size: 14px;
+}
+
+footer p a{
+    text-decoration: none;
+    color: rgb(33, 33, 212);
+}

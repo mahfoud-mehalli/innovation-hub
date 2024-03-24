@@ -5,6 +5,7 @@ import Header from "./sections/Header/Header"
 import Hero from "./sections/Hero/Hero"
 import Reviews from "./sections/Reviews/Reviews"
 import Contact from './sections/Contact/Contact'
+import Footer from './sections/Footer/Footer'
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Events />
       <Reviews />
       <Contact />
+      <Footer />
     </div>
   )
 }
