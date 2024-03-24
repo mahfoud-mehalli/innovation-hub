@@ -42,11 +42,12 @@
     /* display: block; */
     /* height: 80px; */
     line-height: 80px;
+    text-decoration: none;
     transition: 0.3s ease-in-out;
 }
 
 .header-content nav a:hover {
-    color: var(--color-primary);
+    color: blue;
 }
 
 .hidden {

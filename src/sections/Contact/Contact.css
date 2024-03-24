@@ -1,0 +1,67 @@
+.contact{
+    min-height: 720px;
+    width: 100%;
+    padding: 120px 180px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact .email-form{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+.contact .email-form h1{
+    font-size: 48px;
+    /* margin-bottom: 16px; */
+}
+
+.contact .email-form > p{
+    margin-bottom: 32px;
+}
+
+.contact .email-form .TextField{
+    margin-bottom: 16px;
+}
+#outlined-multiline-flexible{
+    min-height: 56px;
+}
+.contact .email-form .button{
+    margin-bottom: 24px;
+}
+
+.contact .email-form .contact-info{
+    display: flex;
+}
+
+.contact .email-form .contact-info > div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact .email-form .contact-info> div img{
+    width: 28px;
+    height: 28px;
+    margin-right: 8px;
+}
+.contact .email-form .contact-info .phone{
+    margin-right: 40px;
+}
+.contact .email-form .contact-info > div > div{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.contact .map-location {
+    /* margin-left: 0px; */
+    width: 45%;
+    /* height: 100%; */
+}
+.contact .map-location iframe{
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 4px 20px 7px;
+    border-radius: 12px;
+    /* height: 100%; */
+}
