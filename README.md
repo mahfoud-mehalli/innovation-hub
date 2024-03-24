@@ -4,7 +4,7 @@ Welcome to our project! This is a brief overview of what the project is about an
 
 ## Introduction
 
-This project is designed to [brief description of what your project does].
+Innovate Hub is an innovative online platform dedicated to nurturing creativity and skill development. Our primary focus lies in offering cutting-edge training programs and organizing engaging events to inspire and empower individuals across various domains.
 
 ## Installation
 
@@ -13,13 +13,13 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/mahfoud-mehalli/innovation-hub.git ./innovate-hub-team6
    ```
 
 2. Navigate into the project directory:
 
    ```
-   cd your-repo
+   cd innovate-hub-team6
    ```
 
 3. Install the project dependencies using npm:
@@ -36,15 +36,13 @@ Once you've cloned the repository and installed the dependencies, you can run th
 npm start
 ```
 
-This will [brief description of what the command does].
+## Technologies used
 
-## Contributing
-
-We welcome contributions from the community! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [License Name]. See the LICENSE.md file for details.
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Contact
 
